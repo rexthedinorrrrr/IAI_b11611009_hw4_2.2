@@ -1,0 +1,5 @@
+{
+    "model": "gpt-3.5-turbo",
+    "static_dir": ["druid"],
+    "state_dir": ["pikachu_state"]
+}
