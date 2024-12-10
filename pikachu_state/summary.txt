@@ -1,0 +1,15 @@
+=== 皮卡丘的冒險總結 ===
+
+冒險等級: 100
+
+皮卡丘的好感度: 72
+
+解鎖的對手: Pidgey, Squirtle, Charizard, Dragonite, Shaymin, Arceus
+
+解鎖的圖鑑寶可夢: Pidgey, Squirtle, Charizard, Dragonite, Shaymin, Arceus
+
+收集到的道具: 神奇糖果, 神奇糖果, 神奇糖果, 神奇糖果, 神奇糖果, HP增強劑, 力量頭帶, HP增強劑, HP增強劑, HP增強劑, 好友寶芬, 力量頭帶, 好友寶芬, 好友寶芬, 好友寶芬
+
+皮卡丘的技能列表: 電擊, 電光一閃, 十萬伏特, 鐵尾
+
+最大血量: 240
